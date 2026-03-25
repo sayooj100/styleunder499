@@ -1,0 +1,26 @@
+Page Title:
+Complete Your Order
+
+Subtext:
+You’re one step away from securing your piece.
+
+Contact Section Title:
+Contact Information
+
+Address Section Title:
+Delivery Address
+
+Order Section Title:
+Your Order
+
+Button Text:
+Reserve Your Order
+
+Note:
+We’re currently opening orders in limited batches. Our team will contact you to confirm your order.
+
+Success Title:
+You’re in 🔥
+
+Success Message:
+Your order request has been received. We’ll contact you shortly with the next step.

@@ -1,0 +1,10 @@
+{
+    "explanation": "To save orders to a Google Sheet, follow these steps:",
+    "steps": [
+        "1. Create a Google Sheet with headers: product, size, price, name, phone, address, timestamp",
+        "2. Use a service like SheetDB.io or SteinHQ.com to turn your sheet into an API.",
+        "3. Copy the API URL and paste it into the saveToGoogleSheets function in app.js.",
+        "4. Alternatively, use a Google Apps Script to POST data directly."
+    ],
+    "example_endpoint": "https://sheetdb.io/api/v1/your-id-here"
+}

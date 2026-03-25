@@ -1,0 +1,6 @@
+# Local server and temp files
+.gemini/
+.DS_Store
+*.log
+tmp/
+node_modules/
